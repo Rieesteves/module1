@@ -7,6 +7,7 @@ first java program(07/09)
          int num=10;
          System.out.println("num = "+ num);
          num= 2* num;
+        
          System.out.println(num);
 
      }
